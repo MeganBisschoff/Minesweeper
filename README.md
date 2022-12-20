@@ -4,9 +4,9 @@ A Python game featuring a grid with hidden mines.
 
 ## Description
 
-This program is a classic and simple demonstration of the minesweeper game logic.The program defines a function that takes a grid (2D array) of '#' and '-', where each hash '#' represents a mine and each dash '-' represents a mine-free spot.
+This program is a classic and simple demonstration of the minesweeper game logic.The program defines a function that takes a grid (2D array) of ``#`` and ``-``, where each hash ``#`` represents a mine and each dash ``-`` represents a mine-free spot.
 
-(The number of rows and columns in the grid are hardcoded in, however, it can be adjusted to take any input by using the alternative commented-out coded provided in line 42 and 43. The mine locations are also predefined, however, it can be randomly generated using Pythons random library.)
+(The number of rows and columns in the grid are hardcoded in, however, it can be adjusted to take any input by using the alternative commented-out code provided in line 42 and 43. The mine locations are also predefined, however, it can be randomly generated using Pythons random library.)
 
 The function returns and prints the grid, where each dash is replaced by a digit, indicating the number of mines immediately adjacent to the spot i.e. (horizontally, vertically, and diagonally).
 
@@ -71,8 +71,8 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Author
 
-Megan Bisschoff
+**Megan Bisschoff** 2022
 
 Project submitted for Software Engineering learnership Level 1 Task 24 at [HyperionDev](https://www.hyperiondev.com/)
 
-[View](https://www.hyperiondev.com/portfolio/86596/) submission results and code review.  
+[View](https://www.hyperiondev.com/portfolio/86596/) submission results.  
